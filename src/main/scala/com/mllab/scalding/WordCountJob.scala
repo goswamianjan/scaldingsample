@@ -1,4 +1,4 @@
-package com.ml-lab.scalding 
+package com.mllab.scalding 
 
 import com.twitter.scalding._
 
